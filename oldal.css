@@ -1,0 +1,85 @@
+html{
+	margin:auto;
+	background-image:url("background.jpg");
+	
+}
+#focim {
+	
+	text-align:center;
+	
+	
+}
+
+
+
+#fokep {
+	
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	height:300px;
+	width:700px;
+	
+}
+
+
+#osszefoglalo{
+	
+	text-align:center;
+	
+}
+
+
+#video{
+	
+	margin-left:auto;
+	margin-right:auto;
+	left:0;
+	right:0;
+	
+	
+}
+li{
+display:inline;
+ border-style:solid;
+    border-width:1px;
+}	
+
+#adatok{
+	text-align:center;
+	font-size:20pt;
+}
+	
+html{
+	
+	font-size:18pt;
+	
+}
+	ul{
+		
+		text-align:center;
+		background-color:lightred;
+		
+	}
+	
+	
+	
+	table, th, td {
+  border: 1px solid black;
+width:40%;
+
+}
+	table{
+		
+		margin:auto;
+		
+	}
+	
+	img{
+		height:170px;
+    width:300px;
+		
+	}
+	
+
+
